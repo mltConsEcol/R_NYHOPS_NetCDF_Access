@@ -1,4 +1,4 @@
-ample Code
+#sample Code
 #Gets netCDF data for lat/long points from Stevens Institute NYHOPS Data
 library(ncdf4)
 
